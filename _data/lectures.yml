@@ -38,15 +38,16 @@
       - File upload: 04/slides/C09-Files.pdf
 
 - week: Managing users
-  # notes:
-  #     - Cookies and Sessions: 05/slides/C09-CookiesAndSessions.pdf
-  #     - WebAuthentication:  05/slides/C09-WebAuthentication.pdf
+  notes:
+      - Cookies and Sessions: 05/slides/C09-CookiesAndSessions.pdf
+      - WebAuthentication:  05/slides/C09-WebAuthentication.pdf
   readings: 
       - RESTful Authentication: https://stackoverflow.com/questions/319530/restful-authentication
+      - Can JWT be used for sessions: https://medium.com/@yuliaoletskaya/can-jwt-be-used-for-sessions-4164d124fe23
       
 - week: Security
-  # notes:
-  #     - Web Security: 06/slides/C09-WebSecurity.pdf
+  notes:
+      - Web Security: 06/slides/C09-WebSecurity.pdf
   readings:
       - Security Best Practices with Node.js: https://expressjs.com/en/advanced/best-practice-security.html
 
